@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "John Kiat"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
