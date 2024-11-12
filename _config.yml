@@ -21,14 +21,14 @@ repository               : "johnkiat/johnkiat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://johnkiat.github.io/files/profile.jpeg"
   name             : "John Kiat"
   pronouns         : # example: "she/her"  
   bio              : "EEG Research Scientist"
-  location         : "Earth"
+  location         : "California, Davis"
   employer         : "University of California, Davis"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jekiat@ucdavis.edu" 
 
   # Academic websites
 #  arxiv            : # URL - Update with the correct link to your profile
