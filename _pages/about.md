@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-WORK IN PROGRESS NOTE: I'm currently moving my site over to github so not everything works quite yet. I should have everything finalized in about 2 weeks.
+WORK IN PROGRESS NOTE: I'm currently moving my site over to github so not everything works quite yet. Aiming to have things finalized in about 2 weeks.
 
-Welcome! I’m John Kiat, I currently work at at the Laboratory for Basic and Translational Cognitive Neuroscience at the University of California, Davis.
+Welcome! I’m John Kiat, currently with the Laboratory for Basic and Translational Cognitive Neuroscience at the University of California, Davis.
 
 The questions that I’m currently interested in finding answers to are, What “creates” emotions in the brain and how do our mental states change the way we “see” the world? The quest to find answers to these questions has brought me across the world, working with some of the leading researchers in the field and learning more about more things than I ever thought I’d ever get the chance to.
 
