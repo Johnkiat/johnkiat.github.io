@@ -227,6 +227,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  research2:
+    output: true
+    permalink: /:collection/:path/
 
 # These settings control how pages and collections are included in the site
 defaults:
@@ -292,7 +295,16 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # _research2
+  - scope:
+      path: ""
+      type: research2
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
