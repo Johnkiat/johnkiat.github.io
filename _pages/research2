@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research (Basic)"
 permalink: /research2/
 author_profile: true
 ---
@@ -10,6 +10,6 @@ test test
 {% include base_path %}
 
 
-{% for post in site.research %}
+{% for post in site.research2 %}
   {% include archive-single.html %}
 {% endfor %}
