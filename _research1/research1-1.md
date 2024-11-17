@@ -1,6 +1,6 @@
 ---
 title: "Visual Attention"
-excerpt: "Click here for an introduction to my research on Visual Attention<br/><img src='/images/attention.webp' width = "250'>"
+excerpt: "Click here for an introduction to my research on Visual Attention<br/><img src='/images/attention.webp'>"
 collection: research1
 ---
 
