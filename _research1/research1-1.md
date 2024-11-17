@@ -18,7 +18,7 @@ Everything we see is made up of visual features. These range from simple things 
 To do this, we recorded electrical activity from the brain while subjects looked at real-world scenes and used modeling techniques to figure out at what point in time information predictive of each type of feature began to emerge in the neural signal. It turned out to be a pretty close race! Saliency-related information emerged about 78 milliseconds after viewing a scene, with meaning-related information emerging a mere 9 milliseconds later.
 <br/><br/>
 <img src='/images/RSA2.jpg'>
-<br/><br/>
+<br/>
 ### [Kiat, J.E., Hayes, T.R., Henderson, J.M., Luck, S.J. (2022). Rapid extraction of the spatial distribution of physical saliency and semantic informativeness from natural scenes in the human brain. Journal of Neuroscience, 97-108](https://www.jneurosci.org/content/jneuro/42/1/97.full.pdf){:target="_blank"}
 <br/>
 **2) How can we best model how the brain represents complex visual information?**
@@ -32,11 +32,10 @@ To achieve this, Steve and I have been working on using the activation outputs f
 We hope to have a full paper on this approach out soon involving neural data, but for now, we've shown that this approach works pretty well with regard to understanding what drives the visual attention of younger and older infants which is a promising start!
 <br/><br/>
 <img src='/images/Infant2.JPG'>
-<br/><br/>
+<br/>
 ### [Kiat, J.E., Luck, S.J., Beckner, A.G., Hayes, T.R., Pomaranski, K.I., Henderson, J.M., Oakes, L.M. (2022). Linking Patterns of Infant Eye Movements to a Neural Network Model of the Ventral Stream Using Representational Similarity Analysis. Developmental Science.](https://escholarship.org/content/qt8579b7wm/qt8579b7wm.pdf){:target="_blank"}
-<br/><br/>
 <br/><br/>
 **3) How are 1 & 2 impacted by individual traits and state-level differences?**
 <br/><br/>
-Last but not least in a currently active line of research. I've been working on understanding how individual differences in specific traits and states changes the way our brains process and represent visual features and information. Looking forward to sharing more in this space once the papers are out!
+Last but not least in a currently active line of research. I've been working on understanding how individual differences in specific traits and states change the way our brains process and represent visual features and information. This has proven to be an extremely exciting line of work so I'm looking forward to sharing more in this space once the papers are out!
 
