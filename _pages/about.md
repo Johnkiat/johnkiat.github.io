@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Note: I'm currently migrating my site, so it's pretty bare-bones for now and probably will be for a bit. 
-
 Welcome! I'm John Kiat, a Project Scientist with Steve Luck at the Laboratory for Basic and Translational Cognitive Neuroscience at the University of California, Davis. Lover of all things electrical in the brain. 
 
 <img src="https://www.johnkiat.com/files/25000_ERPs.gif" alt="drawing" width="200" align = "right"/>As a broad summary of my work, I'm interested in understanding how our brains perceive the world around us and the factors that change how that all works. More specifically, I'm interested in understanding the timecourse of the processing and storage of real-world visual scenes and how various individual difference factors (i.e., developmental, emotional, etc.) moderate the efficiency and activity of the systems involved. 
