@@ -26,7 +26,7 @@ en: &DEFAULT_EN
   powered_by                 : "Powered by"
   website_label              : "Website"
   cv_label                   : "CV"
-  email_label                : "Email"
+  email_label                : "jekiat@ucdavis.edu"
   recent_posts               : "Recent Posts"
   undefined_wpm              : "Undefined parameter words_per_minute at _config.yml"
   comment_form_info          : "Your email address will not be published. Required fields are marked"
