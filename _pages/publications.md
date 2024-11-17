@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "publications"
+permalink: /publications/
+author_profile: true
+---
+
 Here's a list of abstracts and links to the lead author papers I've published over my career. Enjoy and do feel free to get in touch if you have any questions or interesting thoughts.
 
 # Visual Processing
