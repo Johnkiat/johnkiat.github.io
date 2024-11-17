@@ -25,9 +25,9 @@ author:
   name             : "John Kiat"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
-  location         : "https://johnkiat.github.io/files/CV.pdf"
+  location         : 
   employer         : "University of California-Davis"
-  uri              : # URL
+  CV              : "https://johnkiat.github.io/files/CV.pdf"
   email            : "jekiat@ucdavis.edu" 
 
   # Academic websites
