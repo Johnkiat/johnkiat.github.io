@@ -225,7 +225,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  research:
+  research1:
+    output: true
+    permalink: /:collection/:path/
+  research2:
     output: true
     permalink: /:collection/:path/
 
