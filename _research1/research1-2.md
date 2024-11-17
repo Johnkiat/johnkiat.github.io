@@ -4,7 +4,7 @@ excerpt: "Click here for an introduction to my work on human memory<br/><br/><im
 collection: research1
 ---
 I'm currently not particularly active in this area these days, but my adventures in neuroscience research started out here, and I'm proud of the work I did back when!
-<br/>
+<br/><br/>
 So, this may or may not be a surprise to you, depending on your background, but it turns out we humans have pretty imperfect memories. A particularly interesting phenomenon in this area is the fact that we can come to believe in false memories of things that never actually happened. Naturally, this has super important implications for situations involving crimes and is also really useful in shedding light on how memory works in the brain. 
 <br/><br/>
 The main question Bob (Belli) and I were interested in answering back then was whether there are individual differences in susceptibility to false memories and whether we can differentiate between real and false memories after they've been formed. These are difficult questions to answer well given how challenging it is to obtain reliable measures of false memory susptibility, but we did achieve some success in this area.
