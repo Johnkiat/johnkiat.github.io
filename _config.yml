@@ -25,7 +25,7 @@ author:
   name             : "John Kiat"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
-  location         : ""
+  location         : # URL
   employer         : "University of California-Davis"
   uri              : # URL
   email            : "jekiat@ucdavis.edu" 
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=cBm5kV4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : ""
+  orcid            : # URL
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : ""
+  github           : # URL
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
