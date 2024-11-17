@@ -1,6 +1,6 @@
 ---
 title: "Visual Attention"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/attention.webp'>"
+excerpt: "Click here for an introduction to my research on visual attention<br/><br/><img src='/images/attention.webp'>"
 collection: research1
 ---
 
