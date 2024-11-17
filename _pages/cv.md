@@ -9,37 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-present: Assistant Project Scientist, University of California, Davis (UC-Davis)
+* 2018-2024 : Postdoctoral Scholar, UC-Davis
+* 2014-2018 : Graduate Research Fellow: University of Nebraska-Lincoln (UNL)
+* 2011-2013 : Teaching Assistant & Instructor: UNL
+* 2008-2011 : Teaching & Research Assistant: HUC
+* 2006-2007 : Research Intern: CAREERsense Psychometric Testing Center
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2018 : Ph.D. Psychology (UNL)
+  * Specializations : Neuroscience & Behavior, Social Cognition
+  * Concentration : Quantitative Methods
+* 2013 : M.A. Psychology: UNL
+* 2008 : B.A. Psychology (1st Class): HELP University, Malaysia (HUC)
 
 Publications
 ======
@@ -53,12 +38,15 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+  Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
