@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ Here's a list of abstracts and links to the lead author papers I've published ov
 
 # Visual Processing
 
-### [Kiat, J.E., Hayes, T.R., Henderson, J.M., Luck, S.J. (2022). Rapid extraction of the spatial distribution of physical saliency and semantic informativeness from natural scenes in the human brain. Journal of Neuroscience, 97-108](https://www.jneurosci.org/content/jneuro/42/1/97.full.pdf)
+### [Kiat, J.E., Hayes, T.R., Henderson, J.M., Luck, S.J. (2022). Rapid extraction of the spatial distribution of physical saliency and semantic informativeness from natural scenes in the human brain. Journal of Neuroscience, 97-108](https://www.jneurosci.org/content/jneuro/42/1/97.full.pdf){:target="_blank"}
 
 Physically salient objects are thought to attract attention in natural scenes. However, research has shown that meaning maps—which capture the spatial distribution of semantically informative scene features—trump physical saliency in predicting the pattern of eye moments in natural scene viewing. Meaning maps even predict the fastest eye movements, suggesting that the brain extracts the spatial distribution of potentially meaningful scene regions very rapidly. To test this hypothesis, we applied representational similarity analysis (RSA) to event-related potential (ERP) data. The ERPs were obtained from human participants (N = 32, male and female) who viewed a series of 50 different natural scenes while performing a modified 1-back task. For each scene, we obtained a physical saliency map from a computational model and a meaning map from crowd-sourced ratings. We then used RSA to assess the extent to which the representational geometry of physical saliency maps and meaning maps can predict the representational geometry of the neural response (the ERP scalp distribution) at each moment in time following scene onset. We found that a link between physical saliency and the ERPs emerged first (ca. 78 ms after stimulus onset), with a link to semantic informativeness emerging soon afterward (ca. 87 ms after stimulus onset). These findings are in line with previous evidence indicating that saliency is computed rapidly, while also indicating that information related to the spatial distribution of semantically informative scene elements is computed shortly thereafter, early enough to potentially exert an influence on eye movements.
 
