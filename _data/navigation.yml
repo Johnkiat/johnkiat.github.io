@@ -24,7 +24,7 @@ main:
  #  url: /files/CV.pdf
     
   - title: "Research (Intro)"
-    url: /research1/
+    url: /research/
 
   - title: "Research (Advanced)"
     url: /research2/
