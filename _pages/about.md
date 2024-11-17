@@ -13,6 +13,6 @@ Welcome! I'm John Kiat, a Project Scientist with Steve Luck at the Laboratory fo
 
 As finding answers to these questions in this day and age requires a broad set of methods, my research typically involves combining (most frequently electrical activity recorded from the scalp (i.e., electroencephalography (EEG))) with machine-learning techniques, eye-tracking, and of course, cognitive behavioral testing both in-lab and big data collection via crowdsourced platforms. I am particularly excited by finding interesting ways to apply cutting-edge analytic methods to EEG data to ask questions we could only dream of a mere decade ago. Oh! And the pretty animation above shows the pattern of voltage across the scalp as a person views a photograph of a real-world scene like the one below (averaged across 48000 trials). How cool is that!
 
-<img src="https://www.johnkiat.com/files/nature.jpg" alt="drawing" width="600" align = "center"/>
+<img src="https://www.johnkiat.com/files/nature.jpg" alt="drawing" width="600"/></center>
 
-Note: I'm currently migrating my website, so not everything works just yet!
+Note: I'm currently migrating my website, so not everything works just yet, but it should soon.
