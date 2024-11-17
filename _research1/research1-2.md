@@ -21,7 +21,7 @@ Building on the attention finding, we then went on to see if we could predict wh
 <br/><br/>
 <img src='/images/falsememory2.jpg'>
 <br/><br/>
-This actually worked, and we could account for about 24% of individual variability in false memory formation with this approach. 
+This actually worked, and we found that we could account for about 24% of individual variability in false memory formation with this approach. Ultimately, while it is very difficult to obtain valid reliable measures of false memory susceptibility for event memories, it's an important area of work that has significant real-world implications. 
 <br/><br/>
 <img src='/images/falsememory3.jpg'>
 <br/><br/>
