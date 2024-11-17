@@ -3,7 +3,7 @@ title: "Visual Attention"
 excerpt: "Click here for an introduction to my work on visual attention<br/><br/><img src='/images/attention.webp'>"
 collection: research1
 ---
-How do we perceive the world around us? A seemingly simple question that gets devilishly hard the deeper one dives into it. It's really mindblowing how much work our central nervous system does (not just in the brain but also in the eye itself!) to turn those incoming photons into dogs, cats, trees, and loved ones.
+How do we perceive the world around us? A seemingly simple question that gets devilishly hard the deeper one dives into it. It's really mindblowing how much work our central nervous system does (not just in the brain but also in the eye itself!) to turn those photons into dogs, cats, trees, and loved ones.
 <br/><br/>
 <img src='/images/dog.jpg'>
 <br/><br/>
