@@ -21,7 +21,7 @@ repository               : "johnkiat/johnkiat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "johnkiat.github.io/files/1700973667118.jpeg"
+  avatar           : "johnkiat.com/files/1700973667118.jpeg"
   name             : "John Kiat"
   pronouns         : # example: "she/her"  
   bio              : "Research Scientist"
