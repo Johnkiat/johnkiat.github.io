@@ -26,5 +26,5 @@ main:
   - title: "Research (Intro)"
     url: /research1/
 
-  - title: "Research (Advanced)"
-    url: /research2/
+ #- title: "Research (Advanced)"
+ #   url: /research2/
