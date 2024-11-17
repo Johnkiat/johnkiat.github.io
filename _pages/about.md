@@ -15,8 +15,6 @@ As finding answers to these questions in this day and age requires a broad set o
 
 Oh! And the pretty animation above shows the pattern of voltage across the scalp as a person views a photograph of a real-world scene like the one below (averaged across 48000 trials). How cool is that!
 
-<html lang=”en”>
-   </head>
    <body>
       <!--Centered Image Start-->
       <div style="text-align: center;">
@@ -24,6 +22,6 @@ Oh! And the pretty animation above shows the pattern of voltage across the scalp
       </div>
       <!--Centered Image End-->
    </body>
-</html>
+
 
 Note: I'm currently migrating my website, so not everything works just yet, but it should soon.
