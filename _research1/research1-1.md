@@ -27,11 +27,11 @@ Speaking of complex visual features. Another interesting question is how our bra
 <br/><br/>
 To achieve this, Steve and I have been working on using the activation outputs from neural network models (computer programs designed to recognize patterns in data and combine that information to "understand" things) to capture the gradient of abstraction (i.e., the progression of visual features from simple lines to complex combinations of texture and contours) in real-world visual input. 
 <br/><br/>
-<img src='/images/Infant1.jpg'>
+<img src='/images/Infant1.JPG'>
 <br/><br/>
 We hope to have a full paper on this approach out soon involving neural data, but for now, we've shown that this approach works pretty well with regard to understanding what drives the visual attention of younger and older infants which is a promising start!
 <br/><br/>
-<img src='/images/Infant2.jpg'>
+<img src='/images/Infant2.JPG'>
 <br/><br/>
 ### [Kiat, J.E., Luck, S.J., Beckner, A.G., Hayes, T.R., Pomaranski, K.I., Henderson, J.M., Oakes, L.M. (2022). Linking Patterns of Infant Eye Movements to a Neural Network Model of the Ventral Stream Using Representational Similarity Analysis. Developmental Science.](https://escholarship.org/content/qt8579b7wm/qt8579b7wm.pdf){:target="_blank"}
 <br/><br/>
