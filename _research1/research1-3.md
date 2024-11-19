@@ -3,9 +3,9 @@ title: "Human Memory"
 excerpt: "Click here for an introduction to my work on human memory<br/><br/><img src='/images/neurons1.webp'>"
 collection: research1
 ---
-I'm currently not particularly active in this area right now, but my adventures in neuroscience research started out here, and I'm proud of the work I did back when!
+The choices we make and experiences we have ultimately end up stored in memory. When retrieved, we have to decide whether a particular memory is true or if it's changed over time. Intriguingly, research has shown that many of our recollections are biased—painting a rosier picture of reality—or outright false. Such distortions have been shown to have considerable psychological, legal,  and even political consequences.
 <br/><br/>
-So, this may or may not be a surprise to you, but it turns out we humans have pretty imperfect memories. A particularly interesting phenomenon in this area is the fact that we can come to believe in false memories of things that never actually happened. Naturally, this has super important implications for situations involving crimes and is also really useful in shedding light on how memory works in the brain. 
+I'm currently not particularly active in this area right now, but my adventures in neuroscience research started out here, and I'm proud of the work I did back when. 
 <br/><br/>
 The main question Bob (Belli) and I worked together towards answering back when was (1) are there are individual differences in susceptibility to false memories? and (2) can we differentiate between real and false memories after they've been formed? These are tough questions to answer well, given how challenging it is to obtain reliable measures of false memory susceptibility, but we did achieve some success in this area.
 <br/><br/>
