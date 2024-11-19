@@ -37,4 +37,4 @@ We hope to have a full paper on this approach out soon involving neural data, bu
 <br/>
 **3) How are 1 & 2 impacted by individual traits and state-level differences?**
 <br/><br/>
-Last but not least in a currently active line of research. I've been working on understanding how individual differences in specific traits and states change the way our brains process and represent visual features and information. This has proven to be an extremely exciting line of work so I'm looking forward to sharing more in this space once the papers are out!
+Last but not least in a currently active line of research. I've been working on understanding how individual differences in specific traits and states change the way our brains process and represent visual features and information. This has proven to be an extremely exciting line of work, so I'm looking forward to sharing more in this space once the papers are out!
