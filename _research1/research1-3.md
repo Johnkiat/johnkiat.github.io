@@ -5,11 +5,13 @@ collection: research1
 ---
 Imagine a gambler in a Vegas casino. He walks in with his friends, planning to make one small bet. Just one pull of the one-armed bandit. 12 hours later, he's sad, broke, and wondering where it all went wrong. 
 <br/><br/>
+<img src='/files/casino.jpg'>
+<br/><br/>
 My main interest in risk-taking is trying to understand the dynamics underlying risk-taking behavior as a series of escalating decisions as opposed to any single decision moment. To do so, we need to use model risk-taking as a multi-stage process. One of the studies I led which did so looked at decision-making on the well-known Balloon Analogue Risk Task, a well-known paradigm in which participants inflate balloons for cash while trying not to cause them to explode.
 <br/><br/>
 <img src='/files/bart1.png'>
 <br/><br/>
-What I was interested in here was to show that a specific neural response known as the feedback-related-negativity rises in tandem with the increasing level of risk, which was an important question at the time, given the ongoing debate on the component's sensitivity to reward magnitude and likelihood. Our results found evidence in support of the idea that not only FRN does indeed map onto those factors but that it was also reduced in individuals who reported higher levels of resistance to peer influence, suggesting that getting less of a "buzz" from risk-related rewards plays an important role in resisting the often questionable urgings of one's peers to engage in high-risk behaviors.
+I was interested in seeing if, firstly, we could model the response to the rising reward levels as an escalating process and, secondly, whether folks who reported higher levels of resistance to peer influence would have a reduction in that response (i.e., less of a "buzz"). My results showed support for both those ideas, showing that not only FRN does indeed map onto those factors but that it's response was  reduced in individuals who reported higher levels of resistance to peer influence, suggesting that getting less of a "buzz" from risk-related rewards plays an important role in resisting the often questionable urgings of one's peers to engage in high-risk behaviors.
 <br/><br/>
 <img src='/files/bart2.png'>
 <br/>
