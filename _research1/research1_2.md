@@ -1,11 +1,9 @@
 ---
 title: "Social Attention"
-excerpt: "Click here for an introduction to my work on social attention<br/><br/><img src='/images/socialattention.webp'>"
+excerpt: "Click here for an introduction to my work on social attention<br/><br/><img src='/files/socialattention.webp'>"
 collection: research1
 ---
 A huge part of what makes us human is our ability to socially engage with each other (for better or worse!). Fascinatingly enough, we can use the faint electrical signals from the brain recorded at the surface of our scalps to shed some light on how that all works.
-<br/><br/>
-<img src='/files/coolEEG.webp'>
 <br/><br/>
 One of the main things I've been interested in looking at in this area over the years has been how we react to social rejection. From this literature, we know that experiencing social discrimination over a long period of time (i.e., chronic) is associated with a host of negative health outcomes like high blood pressure, heart disease, diabetes, and so forth. An interesting theory as to why this occurs is hypervigilance, the idea that knowing you're in an environment in which you COULD be discriminated against at any time places a person in a chronic state of vigilance which, if maintained for too long, can lead to those negative health outcomes. 
 <br/><br/>
@@ -23,7 +21,7 @@ To shed light on the variation in response, I ran a study looking at how specifi
 <br/><br/>
 <img src='/files/pain2.jpg'>
 <img src='/files/pain3.jpg'>
-<br/><br/>
+<br/>
 In other words, these results suggest that empathy for individuals we don’t know draws more heavily on the “facts of the case”, while just knowing the name of a person may be enough to make us draw on other factors unrelated to such. 
 <br/><br/>
 ### [Kiat, J.E., Cheadle, J.E. (2017). The Impact of Individuation on the Bases of Human Empathic Responding. Neuroimage. 155, 312-321.](https://www.researchgate.net/publication/316772921_The_Impact_of_Individuation_on_the_Bases_of_Human_Empathic_Responding){:target="_blank"}
@@ -32,6 +30,5 @@ Another study I worked with utilized a novel Lunchroom task paradigm developed b
 <br/><br/>
 <img src='/files/lunchroom1.jpg'>
 <img src='/files/lunchroom2.jpg'>
-<br/><br/>
-### [Kiat, J.E., Straley, E., Cheadle, J. E. (2017). Why Won’t They Sit with Me? An Exploratory Investigation of Stereotyped Cues, Social Exclusion, and the P3b. Social Neuroscience](https://www.researchgate.net/publication/306075185_Why_Won't_They_Sit_with_Me_An_Exploratory_Investigation_of_Stereotyped_Cues_Social_Exclusion_and_the_P3b){:target="_blank"}
 <br/>
+### [Kiat, J.E., Straley, E., Cheadle, J. E. (2017). Why Won’t They Sit with Me? An Exploratory Investigation of Stereotyped Cues, Social Exclusion, and the P3b. Social Neuroscience](https://www.researchgate.net/publication/306075185_Why_Won't_They_Sit_with_Me_An_Exploratory_Investigation_of_Stereotyped_Cues_Social_Exclusion_and_the_P3b){:target="_blank"}
