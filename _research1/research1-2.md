@@ -12,10 +12,10 @@ One of the main things I've been interested in looking at in this area over the 
 Drawing on this idea, I used a well-established social exclusion paradigm called the Cyberball task to explore this question. In this paradigm, participants engage in a game of catch with virtual avatars who, after an initial period of fair play, begin to exclude the participant from their game. Me and my colleagues showed that the strength of the attention-related response (i.e., the P300) preceding actual trial outcomes on the Cyberball task rose once rejection became more likely, a short-term manifestation of the hypervigilance phenomena captured in electrical waves from the brain. 
 <br/><br/>
 <img src='/files/cyberball.jpg'>
-<br/><br/>
+<br/>
 ### [Kiat, J.E., Cheadle, J.E. Goosby, B.J. (2018). The Impact of Social Exclusion on Anticipatory Attentional Processes. International Journal of Psychophysiology.](https://www.researchgate.net/publication/321122853_The_impact_of_social_exclusion_on_anticipatory_attentional_processing){:target="_blank"}
 <br/>
-**2)How does social information change the way we judge the experiences of others?**
+**2) How does social information change the way we judge the experiences of others?**
 <br/><br/>
 Building on the idea of anticipatory processes, I ran a study looking at how something as simple as knowing a person's name changes the way we process their experiences. Look at this face expressing mild discomfort. How does it make you feel? As you might expect, there's a lot of variability in how we react to these situations. Some folks report feeling nothing, while others report feeling like they're experiencing the pain themselves. Specifically, I was interested in looking at how that changes based on something as simple as knowing the name of the person.
 <br/><br/>
@@ -27,10 +27,10 @@ To shed light on the variation in response, I ran a study looking at how specifi
 <img src='/files/pain3.jpg'>
 <br/>
 In other words, these results suggest that empathy for individuals we don’t know draws more heavily on the “facts of the case”, while just knowing the name of a person may be enough to make us draw on other factors unrelated to such. 
-<br/><br/>
+<br/>
 ### [Kiat, J.E., Cheadle, J.E. (2017). The Impact of Individuation on the Bases of Human Empathic Responding. Neuroimage. 155, 312-321.](https://www.researchgate.net/publication/316772921_The_Impact_of_Individuation_on_the_Bases_of_Human_Empathic_Responding){:target="_blank"}
 <br/>
-**2)How does social information change the way we respond to the actions of others?**
+**3) How does social information change the way we respond to the actions of others?**
 <br/><br/>
 Another study I worked with utilized a novel Lunchroom task paradigm developed by Caitlin Hudac & Allison Skinner. News features of this can be found [here](http://journalstar.com/news/local/education/unl-study-shows-how-your-brain-braces-for-rejection/article_15c14cac-987b-5046-adec-d29c754c645a.html){:target="_blank"} and [here](https://news.unl.edu/newsrooms/today/article/study-shows-how-brain-anticipates-social-exclusion/){:target="_blank"}! In this paradigm, in which participants are repeatedly socially included or rejected by virtual characters, with the trick being that sometimes those events were forewarned by the presentation of subtle racially stereotyped warnings. Our results showed the highest level of attention-related reactivity to inclusion events preceded by racial stereotypes. In other words, being included by folks who might be racist is more alarming than being rejected by them or included or rejected by folks who aren't.
 <br/><br/>
