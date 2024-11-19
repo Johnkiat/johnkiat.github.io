@@ -62,7 +62,7 @@ Attention and memory are highly integrated processes. Building on prior behavior
 
 Researchers have long sought to understand individual differences in false memory susceptibility. One particularly interesting direction in this area looks at individual differences in visual versus verbal styles of information processing. Prior work linking individual differences in these cognitive styles with false memory susceptibility has been mixed, likely due to a lack of research that distinguishes between visual and verbal styles as independent factors. The current study addresses this issue by linking independent visual and verbal scores on the Style of Processing scale with performance on a Picture-Word source-monitoring task in which 82 participants indicated if various objects were previously presented to them as words or images. The results of this study show that higher visual style of processing preferences are associated with improved levels of visual source-monitoring ability as indexed by a reduced number of source-monitoring errors involving the misattribution of verbally presented items to a visual source.
 
-# Fun Projects
+# Education Research
 
 ### [Kiat, J. E., Ong, A. R., & Ganesan, A. (2017). The influence of Distractor Strength and Placement on MCQ Responding. Educational Psychology.](https://www.researchgate.net/publication/318291892_The_influence_of_distractor_strength_and_response_order_on_MCQ_responding){:target="_blank"}
 
