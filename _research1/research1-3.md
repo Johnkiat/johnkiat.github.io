@@ -21,7 +21,7 @@ I then extended this “escalation” approach to model risk-taking reactivity i
 <br/><br/>
 <img src='/files/croc1.jpg'>
 <br/><br/>
-Using this task, we could then model how their ERP responses to being instructed to press a tooth changed as a function of how many teeth had already been depressed (i.e., changes in risk level). Our results showed that, as predicted, individuals who reported engaging in binge drinking behavior had increased reactivity at higher levels of risk relative to non-bingers. Suggesting that one of the factors underlying binge drinking behavior is the rush one gets from engaging in high-risk behaviors.
+Using this task, we could then look at how their brains' responses to pressing a tooth changed as a function of how many teeth had already been depressed (i.e., changes in risk level). Our results showed that, as predicted, individuals who reported engaging in binge drinking behavior had increased reactivity at higher levels of risk relative to non-bingers. Suggesting that one of the factors underlying binge drinking behavior is the rush one gets from engaging in high-risk behaviors.
 <br/><br/>
 <img src='/files/croc2.jpg'>
 <br/>
