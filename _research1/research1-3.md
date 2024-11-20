@@ -7,7 +7,7 @@ Imagine a gambler in a Vegas casino. He walks in with his friends, planning to m
 <br/><br/>
 <img src='/files/casino.jpg'>
 <br/><br/>
-My primary interest in risk-taking behavior is trying to understand the dynamics underlying it as a series of escalating decisions as opposed to any single decision moment. To do so, we need to use model risk-taking as a multi-stage process. One of the studies I led which did so looked at decision-making on the Balloon Analogue Risk Task, a well-known paradigm in which participants inflate balloons for cash while trying not to go too far and cause them to explode.
+My primary interest in risk-taking behavior is trying to understand the dynamics underlying events like the one described above by viewing the problem as a series of escalating decisions as opposed to any single decision moment. To do so, we need to use model risk-taking as a multi-stage process. One of the studies I led which did so looked at decision-making on the Balloon Analogue Risk Task, a well-known paradigm in which participants inflate balloons for cash while trying not to go too far and cause them to explode.
 <br/><br/>
 <img src='/files/bart1.png'>
 <br/><br/>
