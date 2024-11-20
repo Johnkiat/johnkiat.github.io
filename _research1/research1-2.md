@@ -25,7 +25,7 @@ To shed light on the variation in response, I ran a study looking at how specifi
 <br/><br/>
 <img src='/files/pain2.jpg'>
 <img src='/files/pain3.jpg'>
-<br/>
+<br/><br/>
 In other words, these results suggest that empathy for individuals we don’t know draws more heavily on the “facts of the case”, while just knowing the name of a person may be enough to make us draw on other factors unrelated to such. 
 <br/>
 ### [Kiat, J.E., Cheadle, J.E. (2017). The Impact of Individuation on the Bases of Human Empathic Responding. Neuroimage. 155, 312-321.](https://www.researchgate.net/publication/316772921_The_Impact_of_Individuation_on_the_Bases_of_Human_Empathic_Responding){:target="_blank"}
