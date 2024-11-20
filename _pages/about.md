@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I'm John Kiat, a Research Scientist at the Laboratory for Basic and Translational Cognitive Neuroscience at the University of California, Davis. Aficionado of all things electrical in the brain. 
+Welcome! I'm John Kiat, a Research Scientist at the Laboratory for Basic and Translational Cognitive Neuroscience at the University of California, Davis. Aficionado of all things related to understanding the brain's electrical patterns. 
 
 <img src="https://www.johnkiat.com/files/25000_ERPs.gif" alt="drawing" width="200" align = "right"/>As a broad summary of my current work, I'm interested in understanding how our brains perceive the world around us and the factors that change how that all works. More specifically, I'm interested in understanding the time course of the processing and storage of real-world visual information and how various individual difference factors (i.e., developmental, emotional, etc.) moderate the activity of the systems involved. 
 
