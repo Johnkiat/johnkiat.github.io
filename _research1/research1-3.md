@@ -1,6 +1,6 @@
 ---
 title: "Risk Taking"
-excerpt: "Click here for an introduction to my work on human memory<br/><br/><img src='/files/risktaking.jpg'>"
+excerpt: "Click here for an introduction to my work on risk taking<br/><br/><img src='/files/risktaking.jpg'>"
 collection: research1
 ---
 Imagine a gambler in a Vegas casino. He walks in with his friends, planning to make one small bet. Just one pull of the one-armed bandit. 12 hours later, he's sad, broke, and wondering where it all went wrong. 
