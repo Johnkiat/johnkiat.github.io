@@ -13,13 +13,13 @@ To bridge this gap, Steve and I developed a new way to model how the human brain
 <br/><br/>
 The results were incredibly striking! In our first experiment, our model accounted for a massive 76% of the variance in human response times across different scene pairs. It vastly outperformed basic pixel-level changes (which only explained 29%) and came remarkably close to matching the "ground truth" of explicit human ratings of visual similarity (78%).
 <br/><br/>
-<img src='/images/Picture2.svg'>
+<img src='/images/Picture4.svg'>
 <br/><br/>
 We even tested it on focal changes where an entire object was seamlessly added or deleted from a photograph using Photoshop. After modifying the network to account for "center bias"—the human tendency to focus on the middle of a image—the model continued to successfully predict how well a human subject would be able to detect specific object changes.
 <br/><br/>
 Predicting behavior is one thing, but does the model actually mirror what the brain is doing while it is actively remembering? To answer this, we recorded electrical brain activity using EEG while participants held a real-world scene in their working memory.
 Using a technique called Representational Similarity Analysis (RSA), we compared the geometric relationships of the neural patterns recorded from the scalp directly to the population vectors inside our deep neural network model. Right on cue, during the crucial delay period when the image was missing from the screen, the patterns of voltage across the scalp closely matched the representational geometry of the model's visual areas. This provides direct, neural evidence that our model is successfully capturing the actual format the brain uses to store the real world in mind.
 <br/><br/>
-<img src='/images/Picture3.svg'>
+<img src='/images/Picture5.svg'>
 <br/><br/>
 ### [Kiat, J. E., & Luck, S. J. (2026). A population vector model of visual working memory for real-world scenes. Journal of Experimental Psychology: General](https://psycnet.apa.org/doi/10.1037/xge0001921){:target="_blank"}
