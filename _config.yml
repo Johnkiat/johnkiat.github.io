@@ -12,7 +12,7 @@ title                    : "Main Page"
 title_separator          : "-"
 name                     : &name "John Kiat"
 description              : &description "Project Scientist"
-url                      : https://johnkiat.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://www.johnkiat.com" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johnkiat/johnkiat.github.io"
 
