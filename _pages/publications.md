@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Here's a list of abstracts and links to the lead author papers I've published over my career. Enjoy and do feel free to get in touch if you have any questions or interesting thoughts.
+Here's a list of abstracts and links to some of my papers. Enjoy and do feel free to get in touch if you have any questions or interesting thoughts.
+
+# Visual Memory
+
+### [Kiat, J. E., & Luck, S. J. (2026). A population vector model of visual working memory for real-world scenes. Journal of Experimental Psychology: General, 155(5), 1257-1281 ](https://doi.org/10.1037/xge0001921){:target="_blank"}
+
+Visual working memory is essential for navigating through and interacting with complex real-world environments. It is therefore important to understand how natural visual inputs—characterized by complex contours, continuously varying feature gradients, and spatial relationships—are represented in working memory. However, most research in this field has focused on simplified arrays of discrete artificial objects, favoring experimental control and modeling simplicity over ecological validity. This has led to quantitative models of working memory that require inputs consisting of easily parsed objects defined by a single value along one or more simple feature dimensions. It is not clear how these models could be updated to represent complex, photograph-like scenes. To overcome this limitation, we introduce a population vector model of working memory that was designed specifically for real-world scenes. This model represents a scene as a noisy vector of neural firing rates across one or more areas of the ventral pathway, as estimated by a deep neural network model. We show that this model can account for both variations in behavioral performance and patterns of brain activity in tasks that require storing naturalistic scenes in working memory. These results demonstrate the viability of our general modeling approach, setting the stage for more sophisticated models that can fully account for the storage of real-world scenes in working memory.
 
 # Visual Processing
 
