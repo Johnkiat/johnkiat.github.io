@@ -7,6 +7,8 @@ How do we store incoming visual information from the world around us? It is easy
 <br/><br/>
 While scientists have studied visual working memory for decades, the vast majority of research relies on simplified artificial arrays—like a few colored squares on a gray screen. While highly controlled, these traditional experiments don't capture the messy, continuous, beautifully complex nature of the real world. In real-world scenes, colors fade gradually, shapes are irregular, and objects blend into one another.
 <br/><br/>
+<img src='/images/shapes.png'>
+<br/><br/>
 To bridge this gap, Steve and I developed a new way to model how the human brain stores real-world visual scenes. Our model proposes that the working memory representation of a scene is simply a weaker, noisier echo of the brain's original perceptual representation in the ventral visual processing pathway. To test this, we used CORnet-S, a deep neural network (DNN) explicitly engineered to mirror the anatomical stages of the human visual cortex (from basic features in V1 to complex, abstract objects in IT).
 <br/><br/>
 <img src='/images/Picture1.svg'>
